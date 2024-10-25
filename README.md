@@ -1,0 +1,3 @@
+Vehicle Management Application
+
+This Spring-based application demonstrates the use of XML configuration to manage a Vehicle object. It showcases how to define and configure beans using Spring's Inversion of Control (IoC) container. The application initializes a Vehicle instance with properties such as vehicle number, state, owner name, and fuel category, all specified in an XML configuration file. Upon execution, it retrieves the configured Vehicle bean and prints its details to the console, illustrating the seamless integration of Java and XML in Spring applications. This project serves as a foundational example for understanding Spring's dependency injection and bean management.
